@@ -1,3 +1,4 @@
+//Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 import java.util.Arrays;
 import java.io.FileWriter;
 import java.io.IOException;
